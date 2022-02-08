@@ -1,0 +1,22 @@
+.Dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.active {color: red;text-decoration: none}
+.users{
+    color: pink;
+    margin: 10px;
+}
+.user{
+    text-decoration: none;
+    padding-bottom: 10px;
+    color: olivedrab;
+}
+.message{
+    color: indianred;
+    margin: 10px;
+    margin-bottom: 10px;
+}
+.active{
+    color: goldenrod;
+}
